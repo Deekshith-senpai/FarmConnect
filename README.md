@@ -41,9 +41,8 @@ The Farmers Market website project serves as a foundational prototype for a plat
                                                            
 -	“Code crafters”  
 Team members
--	Deekshith
--	Avinash
--	Bharath
--	Vijay
-    (Global Academy of Technology)
+-	Deekshith (Global Academy of Technology)
+-	Avinash (Global Academy of Technology)
+-	Bharath (Global Academy of Technology)
+-	Vijay (Global Academy of Technology)
  	
